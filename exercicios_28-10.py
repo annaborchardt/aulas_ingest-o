@@ -89,6 +89,8 @@ print(lista)
 
 #Exercicio 7
 
+#função
+
 nome=input("Digite o seu nome: ")
 
 def saudacao(nome):
